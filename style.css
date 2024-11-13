@@ -104,23 +104,4 @@ h2 {
 }
 
 
-/* Add media queries for different screen sizes */
-@media screen and (max-width: 768px) {
-    body {
-        padding: 15px;
-    }
-    
-    td {
-        padding: 15px;
-    }
-}
 
-@media screen and (max-width: 480px) {
-    body {
-        padding: 10px;
-    }
-    
-    td {
-        padding: 10px;
-    }
-}
